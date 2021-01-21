@@ -1,4 +1,4 @@
-# Machine Learning Basics
+# 1.1. Machine Learning Basics
 
 ## Introduction
 
