@@ -1,4 +1,4 @@
-# Machine Learning Algorithms
+# 1.2. Machine Learning Algorithms
 
 
 

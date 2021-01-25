@@ -1,2 +1,2 @@
-# Course Details
+# 0. Course Details
 

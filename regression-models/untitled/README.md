@@ -1,2 +1,6 @@
-# Types of Algorithms
+# 2.2. Types of Algorithms
+
+jhjh
+
+mjhjh
 
